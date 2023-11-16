@@ -1,6 +1,6 @@
 {
   "name": "node-module-typescript-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a base template that will allow you to focus on developing your new module without worrying about CI/CD implementations, code review, semantic versioning, and other related tasks.",
   "author": {
     "name": "Alexander Daza",
