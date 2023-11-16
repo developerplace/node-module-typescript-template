@@ -1,6 +1,6 @@
 {
   "name": "node-module-typescript-template",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "This is a base template that will allow you to focus on developing your new module without worrying about CI/CD implementations, code review, semantic versioning, and other related tasks.",
   "author": {
     "name": "Alexander Daza",
@@ -34,6 +34,7 @@
     "jest": "^29.7.0",
     "lint-staged": "^15.1.0",
     "prettier": "^3.1.0",
+    "standard-version": "^9.5.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.2.2"
   },
